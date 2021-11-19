@@ -1,0 +1,30 @@
+body {
+    font-family: "Avenir Next";
+}
+
+.self-cooking {
+  background-color: #FF9800;
+}
+
+.self-cooking a.navbar-brand:link,
+.self-cooking a.navbar-brand:visited,
+.self-cooking ul.navbar-nav li a:link,
+.self-cooking ul.navbar-nav li a:visited
+{
+  color:lightgray;
+}
+
+.self-cooking a.navbar-brand:hover,
+.self-cooking a.navbar-brand:active,
+.self-cooking ul.navbar-nav li a:hover,
+.self-cooking ul.navbar-nav li a:active
+{
+  color:white;
+}
+
+.bar{
+  height: 300px;
+  overflow: scroll;
+}
+
+  
