@@ -23,7 +23,7 @@ body {
 }
 
 .bar{
-  height: 10px;
+  height: 100px;
   overflow: scroll;
 }
 
